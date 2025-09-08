@@ -11,7 +11,7 @@ redirect_from:
 
 Brief Bio
 ======
-I'm a 5th year PhD student at the University of Washington advised by Dan Suciu and Magda Balazinska. Broadly, I'm interested in the intersection of databases, compilers, and tensor programming. In my work, I hope to make high performance computing accessible to domain experts through declarative programming coupled with automatic program optimization.
+I'm an incoming assistant professor at Boston University, joining in the Spring 2026. Broadly, I'm interested in the intersection of databases, compilers, and tensor programming. In my work, I hope to make high performance computing accessible to domain experts through declarative programming coupled with automatic program optimization. Additionally, I work on an open-data project called [Govscape](govscape.net) that provides a modern search interface over millions of government PDFs.
 
 
 Not Work
