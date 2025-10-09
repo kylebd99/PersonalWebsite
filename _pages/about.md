@@ -11,15 +11,15 @@ redirect_from:
 
 Brief Bio
 ======
-I'm an incoming assistant professor at Boston University, joining in the Spring 2026. Broadly, I'm interested in the intersection of databases, compilers, and tensor programming. In my work, I hope to make high performance computing accessible to domain experts through declarative programming coupled with automatic program optimization. Additionally, I work on an open-data project called [Govscape](https://www.govscape.net) that provides a modern search interface over millions of government PDFs.
+I'm an incoming assistant professor at Boston University, joining in the Spring 2026. Broadly, I'm interested in the intersection of databases, compilers, and tensor programming. My work has two main branches. First, I make high performance computing accessible to domain experts through declarative programming coupled with automatic program optimization. Second, I am excited about building systems to support the open-data community. In this vein, I'm currently working on an open-data project called [Govscape](https://www.govscape.net) that provides a modern search interface over millions of government PDFs.
 
 
 Not Work
 ======
 Outside of databases, tensors, etc., I spend a lot of time on the following!
 
-**Running**: I just ran my first full marathon this summer (shoutout to the North Olympic Discovery Marathon for giving me a happy birthday run bib :) ). Going forward, I'm interested in and a bit intimidated by trail running.
+**Running**: I ran my second full marathon this summer in Vancouver, BC! Going forward, I'm interested in and a bit intimidated by trail running.
 
-**Gardening**: Last year, my partner and I had a plot in a local community garden, and we went full bore on a miniature farm. That community garden is going away this year, so we're slowly testing the patience of our building's property management w.r.t. grow bags...
+**Gardening**: Back in Seattle, my partner and I had a thriving garden, and we're excited to see how the growing season compares in Boston. Here's hoping that jalapenos can manage in the Northeast.
 
-**D&D/Tabletop RPGs**: I think tabletop games are a great way to keep in touch with people and a great excuse to be a bit silly. My group is about to start playing "Paleomythic: A Stone Age RPG", and I'm always excited to hear about new niche RPGs!
+**D&D/Tabletop RPGs**: I think tabletop games are a great way to keep in touch with people and a great excuse to be a bit silly. My group just finished a campaing in "Paleomythic: A Stone Age RPG", and I'm always excited to hear about new niche RPGs!
