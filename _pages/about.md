@@ -11,7 +11,7 @@ redirect_from:
 
 Brief Bio
 ======
-I'm an assistant professor at Boston University. Broadly, I'm interested in the intersection of databases, compilers, and tensor programming. My work has two main branches. First, I make high performance computing accessible to domain experts through declarative programming coupled with automatic program optimization. This is primarily applied to sparse array programming as part of the finch-tensor project. Second, I am excited about building systems to support the open-data community. In this vein, I'm currently working on an open-data project called [Govscape](https://www.govscape.net) that provides a modern search interface over millions of government PDFs.
+I'm an assistant professor at Boston University. Broadly, I'm interested in the intersection of databases, compilers, and tensor programming. My work has two main branches. First, I make high performance computing accessible to domain experts through declarative programming coupled with automatic program optimization. This is primarily applied to sparse array programming as part of the [finch-tensor project](https://finch-tensor.org/). Second, I am excited about building systems to support the open-data community. In this vein, I'm currently working on an open-data project called [Govscape](https://www.govscape.net) that provides a modern search interface over millions of government PDFs.
 
 
 Not Work
