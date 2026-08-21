@@ -28,10 +28,8 @@ Talks
 
 Teaching and Mentoring
 ======
-* Teaching Assistant for 'CSE 544: Graduate Database Management Systems'
-  * Taught a lecture on memory management in DMBS', designed homework assignments, held office hours, and graded assignments
-* Undergraduate Research Mentor (Dec. 2022 - Aug. 2024)
-  * Was fortunate to recruit and work with Diandre Sabale on a succesful research project resulting in a VLDB 2025 publication
+* Taught CS 599K "The Theory and Practice of Tractable Programming"
+  * This class went through the core theory and systems principles underlying tractable programming languages like SQL, einsum, etc.. 
 
 Industry experience
 ======

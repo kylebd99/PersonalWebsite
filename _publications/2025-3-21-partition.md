@@ -1,7 +1,7 @@
 ---
 title: "Partition Constraints for Conjunctive Queries: Bounds and Worst-Case Optimal Joins (Best Paper & Best Student Paper)"
 collection: publications
-permalink: /publication/2025-01-29-galley
+permalink: /publication/2025-3-21-partition
 excerpt: 'This paper proposes a new statistic on relations that can be used to produce asymptotically tighter bounds on output size and runtime.'
 date: 2025-01-29
 venue: 'ICDT 2025'
