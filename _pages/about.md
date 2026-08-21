@@ -18,7 +18,7 @@ Not Work
 ======
 Outside of databases, tensors, etc., I spend a lot of time on the following!
 
-**Running**: I ran my second full marathon this summer in Vancouver, BC! Going forward, I'm interested in and a bit intimidated by trail running.
+**Running**: I ran my third marathon this summer in Newport, RI. Going forward, I'm interested in and a bit intimidated by trail running.
 
 **Gardening**: Back in Seattle, my partner and I had a thriving garden, and we're excited to see how the growing season compares in Boston. Here's hoping that jalapenos can manage in the Northeast.
 
