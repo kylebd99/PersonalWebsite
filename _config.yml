@@ -12,9 +12,9 @@ title                    : "Kyle Deeds"
 title_separator          : "-"
 name                     : &name "Kyle Deeds"
 description              : &description "personal description"
-url                      : https://kylebd99.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://kdeeds.net # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
-repository               : "kylebd99/kyle.deeds.github.io"
+repository               : "kylebd99/PersonalWebsite"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
